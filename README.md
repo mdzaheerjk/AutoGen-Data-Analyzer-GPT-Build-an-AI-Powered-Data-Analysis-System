@@ -4,7 +4,7 @@ Build an automated data analysis system leveraging Microsoft's AutoGen framework
 ## Project Preview
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_banners/Gemini_Generated_Image_t9nawzt9nawzt9na.jpg"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_banners/Gemini_Generated_Image_t9nawzt9nawzt9na.jpg"
        alt="Project Preview"
        width="600" />
 </p>
@@ -12,7 +12,7 @@ Build an automated data analysis system leveraging Microsoft's AutoGen framework
 ## System Architecture
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_architecture_diagrams/Screenshot_2026-01-19_at_10.58.06PM.png"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_architecture_diagrams/Screenshot_2026-01-19_at_10.58.06PM.png"
        alt="System Architecture"
        width="600" />
 </p>
